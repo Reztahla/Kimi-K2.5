@@ -696,6 +696,10 @@ Kimi K2.5 works best with Kimi Code CLI as its agent framework — give it a try
 
 Both the code repository and the model weights are released under the [Modified MIT License](LICENSE).
 
+## 8. macOS Terminal Usage
+- See `docs/macos_terminal_guide.md` for end-to-end setup and calling the model from macOS terminal.
+- See `docs/skills.md` for macOS-safe skills to include in system prompts.
+- See `docs/agents.md` for ready-to-paste agent prompt templates.
 
 ---
 
